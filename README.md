@@ -156,9 +156,26 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :clapper: :page_facing_up: [Recent progress in semantic image segmentation](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf)
 
-:loud_sound: :globe_with_meridians: [Analytics Vidhya Top 10 Audio Processing Tasks and their papers](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
+Rabbit hole -> :loud_sound: :globe_with_meridians: [Analytics Vidhya Top 10 Audio Processing Tasks and their papers](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
 
+[FACE AGING WITH CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1702.01983.pdf)
+
+[Dual Conditional GANs for Face Aging and Rejuvenation](https://www.ijcai.org/proceedings/2018/0125.pdf)
+
+[BAGAN: Data Augmentation with Balancing GAN](https://arxiv.org/pdf/1803.09655.pdf)
+
+
+### Random Articles
+
+[10 Powerful Applications of Linear Algebra in Data Science](https://www.analyticsvidhya.com/blog/2019/07/10-applications-linear-algebra-data-science/)
+
+Rabbit hole -> [Top 5 Interesting Applications of GANs](https://www.analyticsvidhya.com/blog/2019/04/top-5-interesting-applications-gans-deep-learning/)
+
+Rabbit hole -> [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
+[Deep Learning Applications a beginner can build in minutes ](https://www.analyticsvidhya.com/blog/2017/02/5-deep-learning-applications-beginner-python/)
 
 #### CHANGELOG
 
 2019-10-28 Started `must-read-papers-for-ml` repo
+2019-10-29 Added analytics vidhya use case studies article links
