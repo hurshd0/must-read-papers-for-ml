@@ -23,7 +23,7 @@ Curated collection of Data Science, Machine Learning and Deep Learning papers, r
 
 :1st_place_medal: :page_facing_up: [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
 
-:1st_place_medal: :page_facing_up: [Frequentism and Bayesianism: A Python-drivenPrimer by Jake VanderPlas](https://arxiv.org/pdf/1411.5018.pdf)
+:1st_place_medal: :page_facing_up: [Frequentism and Bayesianism: A Python-driven Primer by Jake VanderPlas](https://arxiv.org/pdf/1411.5018.pdf)
 
 ## Machine Learning
 
@@ -87,7 +87,7 @@ Curated collection of Data Science, Machine Learning and Deep Learning papers, r
 
 - [Google BERT Annoucement](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 
-[Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
+:2nd_place_medal: :page_facing_up: [Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
 
 :2nd_place_medal: :page_facing_up:[AlexNet-ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -107,6 +107,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :2nd_place_medal: :page_facing_up: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf)
 
 :2nd_place_medal: :page_facing_up: [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312.pdf)
+
+- [COCO dataset](http://cocodataset.org/#home)
 
 :3rd_place_medal: :page_facing_up: [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/pdf/1710.05381.pdf)
 
@@ -151,3 +153,11 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 - [Github Code](https://github.com/run-youngjoo/SC-FEGAN)
 
 :camera_flash: :page_facing_up: [Handheld Mobile Photography in Very Low Light](https://arxiv.org/pdf/1910.11336v1.pdf)
+
+:japanese_castle: :mosque: :page_facing_up: [Learning Deep Features for Scene Recognitionusing Places Database](http://places.csail.mit.edu/places_NIPS14.pdf)
+
+:bullettrain_front: :bullettrain_side: :page_facing_up: [High-Speed Tracking withKernelized Correlation Filters](https://arxiv.org/pdf/1404.7584.pdf)
+
+:clapper: :page_facing_up: [Recent progress in semantic image segmentation](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf)
+
+:loud_sound: [Analytics Vidhya Top 10 Audio Processing Tasks and their papers](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/
