@@ -1,10 +1,6 @@
 > NOTE: :construction: in process of updating, let me know what additional papers to add I will add them here. 
 
-- Submit Pull Request If I am missing any important papers, or links don't work.
-
-#### CHANGELOG
-
-2019-10-28 Started `must-read-papers-for-ml` repo
+- :arrows_clockwise: Submit Pull Request If I am missing any important papers, or links don't work.
 
 Curated collection of Data Science, Machine Learning and Deep Learning papers, reviews and articles that are on must read list.
 
@@ -161,3 +157,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :clapper: :page_facing_up: [Recent progress in semantic image segmentation](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf)
 
 :loud_sound: :globe_with_meridians: [Analytics Vidhya Top 10 Audio Processing Tasks and their papers](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
+
+
+#### CHANGELOG
+
+2019-10-28 Started `must-read-papers-for-ml` repo
