@@ -160,4 +160,4 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :clapper: :page_facing_up: [Recent progress in semantic image segmentation](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf)
 
-:loud_sound: [Analytics Vidhya Top 10 Audio Processing Tasks and their papers](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/
+:loud_sound: [Analytics Vidhya Top 10 Audio Processing Tasks and their papers](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
