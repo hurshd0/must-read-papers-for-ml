@@ -145,6 +145,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :3rd_place_medal: :page_facing_up: [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882v2)
 
+:3rd_place_medal: :page_facing_up: [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](https://arxiv.org/abs/1808.03867)
+
 
 ###  :national_park: :speech_balloon: Image Captioning
 
