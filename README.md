@@ -90,7 +90,7 @@
 
 :1st_place_medal: :page_facing_up: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 
-:1st_place_medal: :page_facing_up: [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406)
+:1st_place_medal: :page_facing_up: [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661v1.pdf)
 
 :2nd_place_medal: :page_facing_up: [Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
 
@@ -109,6 +109,12 @@
 :3rd_place_medal: :page_facing_up: [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980)
 
 :3rd_place_medal: :page_facing_up: [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709v1)
+
+:globe_with_meridians: [Stanford UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+
+:globe_with_meridians: [Distill.pub](https://distill.pub/)
+
+:globe_with_meridians: [Colah's Blog](http://colah.github.io/)
 
 
 ### :framed_picture: CNNs
@@ -175,6 +181,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 ### :man_health_worker: :syringe: Medical AI :pill: :microscope:
 
 [Machine learning classifiers and fMRI: a tutorial overview - by Francisco et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2892746/pdf/nihms100405.pdf)
+
+
 
 ### :alien: GANs
 
