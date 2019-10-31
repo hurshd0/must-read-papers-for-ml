@@ -90,7 +90,7 @@
 
 :1st_place_medal: :page_facing_up: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 
-:1st_place_medal: :page_facing_up: [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.
+:1st_place_medal: :page_facing_up: [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406)
 
 :2nd_place_medal: :page_facing_up: [Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
 
@@ -131,7 +131,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :1st_place_medal: :page_facing_up: [A Primer on Neural Network Modelsfor Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
 
-:2nd_place_medal: :page_facing_up: [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+:2nd_place_medal: :page_facing_up: [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805)
 
 - [Google BERT Annoucement](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 
