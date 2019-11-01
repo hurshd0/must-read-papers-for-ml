@@ -133,6 +133,8 @@
 
 :globe_with_meridians: [Sebastian Ruder](https://ruder.io/)
 
+:globe_with_meridians: [Jay Alammar](http://jalammar.github.io/)
+
 ### :framed_picture: CNNs
 
 :1st_place_medal: :page_facing_up: [Visualizing and Understanding Convolutional Networks -by Andrej Karpathy Justin Johnson Li Fei-Fei](https://arxiv.org/pdf/1311.2901.pdf)
@@ -158,13 +160,15 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :1st_place_medal: :page_facing_up: [A Critical Review of Recurrent Neural Networksfor Sequence Learning](https://arxiv.org/pdf/1506.00019.pdf)
 
-:1st_place_medal: :page_facing_up: [Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
-
-:1st_place_medal: :page_facing_up: [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805)
-
 :1st_place_medal: :page_facing_up: [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf)
 
 :star: :1st_place_medal: :page_facing_up: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) :star:
+
+:1st_place_medal: :page_facing_up: [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
+
+:1st_place_medal: :page_facing_up: [Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
+
+:1st_place_medal: :page_facing_up: [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805)
 
 - [Google BERT Annoucement](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 
@@ -177,6 +181,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :3rd_place_medal: :page_facing_up: [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882v2)
 
 :3rd_place_medal: :page_facing_up: [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](https://arxiv.org/abs/1808.03867)
+
 
 ###  :national_park: :speech_balloon: Image Captioning
 
@@ -192,9 +197,6 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :2nd_place_medal: :page_facing_up: [Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
 
-
-
-
 ### :car: :walking_man: Object Detection :eagle: :football:
 
 :2nd_place_medal: :page_facing_up:[ResNet-Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
@@ -204,6 +206,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :2nd_place_medal: :page_facing_up: [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312)
 
 - [COCO dataset](http://cocodataset.org/#home)
+
 
 ### :man_health_worker: :syringe: Medical AI :pill: :microscope:
 
