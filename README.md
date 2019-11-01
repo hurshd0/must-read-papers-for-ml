@@ -1,11 +1,18 @@
+# Must Read Papers for Data Science, ML, and DL
+---
+
 ### Curated collection of Data Science, Machine Learning and Deep Learning papers, reviews and articles that are on must read list.
 
-> NOTE: :construction: in process of updating, let me know what additional papers to add I will add them here. 
+> NOTE: :construction: in process of updating, let me know what additional papers, articles, blogs to add I will add them here. 
+
+## Contributing
+- :point_right: :arrows_clockwise: Please feel free to [Submit Pull Request](https://github.com/hurshd0/must-read-papers-for-ml/pulls), if links are broken, or I am missing any important papers, blogs or articles.
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hurshd0/must-read-papers-for-ml/graphs/commit-activity)
 
 ### :point_down: READ THIS :point_down:
 
-- :point_right: :arrows_clockwise: Submit Pull Request If I am missing any important papers, or links don't work.
-- :point_right: Reading paper with heavy math is hard, it takes certain dedication and motivation to thoroughly get them, don't be discouraged, read once, read twice, read thrice,... until it clicks and blows you away.
+- :point_right: Reading paper with heavy math is hard, it takes time and effort to understand, most of it is dedication and motivation to not quit, don't be discouraged, read once, read twice, read thrice,... until it clicks and blows you away.
 
 
 :1st_place_medal: - Read it first
@@ -77,6 +84,10 @@
 
 :2nd_place_medal: :page_facing_up: [Taking the Human Out of the Loop: A review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
 
+### Famous Blogs
+
+[Sebastian Raschka](https://sebastianraschka.com/blog/index.html)
+
 
 ## :books: Neural Networks and Deep Learning Neural Networks
 
@@ -91,8 +102,6 @@
 :1st_place_medal: :page_facing_up: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 
 :1st_place_medal: :page_facing_up: [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661v1.pdf)
-
-:2nd_place_medal: :page_facing_up: [Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
 
 :2nd_place_medal: :page_facing_up: [Polynomial Regression As an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850)
 
@@ -110,16 +119,23 @@
 
 :3rd_place_medal: :page_facing_up: [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709v1)
 
+### Famous Deep Learning Blogs :cowboy_hat_face:
+
 :globe_with_meridians: [Stanford UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 
 :globe_with_meridians: [Distill.pub](https://distill.pub/)
 
 :globe_with_meridians: [Colah's Blog](http://colah.github.io/)
 
+:globe_with_meridians: [Andrej Karpathy](https://karpathy.github.io/)
+
+:globe_with_meridians: [Zack Lipton](http://zacklipton.com/articles/)
+
+:globe_with_meridians: [Sebastian Ruder](https://ruder.io/)
 
 ### :framed_picture: CNNs
 
-:1st_place_medal: :page_facing_up: [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
+:1st_place_medal: :page_facing_up: [Visualizing and Understanding Convolutional Networks -by Andrej Karpathy Justin Johnson Li Fei-Fei](https://arxiv.org/pdf/1311.2901.pdf)
 
 :2nd_place_medal: :page_facing_up: [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -132,12 +148,23 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :3rd_place_medal: :page_facing_up: [Large-scale Video Classification with Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 
+:3rd_place_medal: :page_facing_up: [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998.pdf)
 
 ### :abcd: :symbols: NLP :currency_exchange: :1234:
 
 :1st_place_medal: :page_facing_up: [A Primer on Neural Network Modelsfor Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
 
-:2nd_place_medal: :page_facing_up: [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805)
+:1st_place_medal: :page_facing_up: [LSTM: A Search Space Odyssey - by Klaus Greff et al.](https://arxiv.org/pdf/1503.04069.pdf)
+
+:1st_place_medal: :page_facing_up: [A Critical Review of Recurrent Neural Networksfor Sequence Learning](https://arxiv.org/pdf/1506.00019.pdf)
+
+:1st_place_medal: :page_facing_up: [Open AI (GPT-2) Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)
+
+:1st_place_medal: :page_facing_up: [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805)
+
+:1st_place_medal: :page_facing_up: [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf)
+
+:star: :1st_place_medal: :page_facing_up: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) :star:
 
 - [Google BERT Annoucement](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 
@@ -145,14 +172,11 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :3rd_place_medal: :page_facing_up: [A Sensitivity Analysis of (and Practitioners’ Guide to) ConvolutionalNeural Networks for Sentence Classification](https://arxiv.org/pdf/1510.03820v4.pdf)
 
-:star: :3rd_place_medal: :page_facing_up: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) :star:
-
 :3rd_place_medal: :page_facing_up: [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://arxiv.org/pdf/1910.11470v1)
 
 :3rd_place_medal: :page_facing_up: [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882v2)
 
 :3rd_place_medal: :page_facing_up: [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](https://arxiv.org/abs/1808.03867)
-
 
 ###  :national_park: :speech_balloon: Image Captioning
 
@@ -168,6 +192,9 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :2nd_place_medal: :page_facing_up: [Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
 
+
+
+
 ### :car: :walking_man: Object Detection :eagle: :football:
 
 :2nd_place_medal: :page_facing_up:[ResNet-Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
@@ -181,8 +208,6 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 ### :man_health_worker: :syringe: Medical AI :pill: :microscope:
 
 [Machine learning classifiers and fMRI: a tutorial overview - by Francisco et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2892746/pdf/nihms100405.pdf)
-
-
 
 ### :alien: GANs
 
@@ -243,3 +268,5 @@ Rabbit hole -> [Top 5 Interesting Applications of GANs](https://www.analyticsvid
 2019-10-29 Added analytics vidhya use case studies article links
 
 2019-10-30 Added Outlier/Anomaly detection paper, separated Boosting, CNN, Object Detection, NLP papers, and added Image captioning papers 
+
+2019-10-31 Added Famous Blogs from Deep and Machine Learning Researchers
