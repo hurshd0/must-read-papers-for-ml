@@ -4,6 +4,8 @@
 ### Curated collection of Data Science, Machine Learning and Deep Learning papers, reviews and articles that are on must read list.
 
 > NOTE: :construction: in process of updating, let me know what additional papers, articles, blogs to add I will add them here. 
+> :point_right: :star: this repo
+
 
 ## Contributing
 - :point_right: :arrows_clockwise: Please feel free to [Submit Pull Request](https://github.com/hurshd0/must-read-papers-for-ml/pulls), if links are broken, or I am missing any important papers, blogs or articles.
@@ -31,6 +33,11 @@
 ### :notebook: General DS
 
 :1st_place_medal: :page_facing_up: [Statistical Modeling: The Two Cultures - by Leo Breiman](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
+
+:2nd_place_medal: :page_facing_up: [A study in Rashomon curves and volumes: A new perspective on
+generalization and model simplicity in machine learning](https://arxiv.org/pdf/1908.01755.pdf)
+
+- :video_camera: [KDD 2019 Cynthia Rudin's Keynote](https://youtu.be/wL4X4lG20sM)
 
 :1st_place_medal: :page_facing_up: [Frequentism and Bayesianism: A Python-driven Primer by Jake VanderPlas](https://arxiv.org/pdf/1411.5018.pdf)
 
@@ -88,6 +95,31 @@
 
 [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)
 
+### :8ball: :crystal_ball: Recommenders
+
+#### Surveys
+
+:1st_place_medal: :page_facing_up: [A Survey of Collaborative Filtering Techniques](http://downloads.hindawi.com/archive/2009/421425.pdf)
+
+:1st_place_medal: :page_facing_up: [Collaborative Filtering Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.4520&rep=rep1&type=pdf)
+
+:1st_place_medal: :page_facing_up: [Deep Learning Based Recommender System: A Survey and New Perspectives](https://sci-hub.tw/10.1145/3285029)
+
+:1st_place_medal: :page_facing_up: :thinking: :star: [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/abs/1804.11192) :star:
+
+#### Case Studies
+
+:2nd_place_medal: :page_facing_up: [he Netflix Recommender System: Algorithms, Business Value,and Innovation](http://delivery.acm.org/10.1145/2850000/2843948/a13-gomez-uribe.pdf)
+
+- :globe_with_meridians: Netflix Medium Blog
+  - [Netflix Recommendations: Beyond the 5 stars Part 1](https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5)
+  - [Netflix Recommendations: Beyond the 5 stars Part 2](https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5)
+
+:2nd_place_medal: :page_facing_up: [Two Decades of Recommender Systems at Amazon.com](https://pdfs.semanticscholar.org/0f06/d328f6deb44e5e67408e0c16a8c7356330d1.pdf)
+
+:2nd_place_medal: :globe_with_meridians: [How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+
+:point_right: More In-Depth study, :closed_book: [Recommender Systems Handbook](https://www.amazon.com/Recommender-Systems-Handbook-Francesco-Ricci/dp/1489976361) 
 
 ## :books: Neural Networks and Deep Learning Neural Networks
 
@@ -215,10 +247,6 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 ### :alien: GANs
 
 :books: GAN Rabbit Hole -> [GAN Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
-
-### :8ball: :crystal_ball: Recommenders
-
-:construction:
 
 ## :point_down: Cool Stuff :point_down:
 
