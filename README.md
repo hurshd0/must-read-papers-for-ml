@@ -109,7 +109,7 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 
 #### Case Studies
 
-:2nd_place_medal: :page_facing_up: [he Netflix Recommender System: Algorithms, Business Value,and Innovation](http://delivery.acm.org/10.1145/2850000/2843948/a13-gomez-uribe.pdf)
+:2nd_place_medal: :page_facing_up: [The Netflix Recommender System: Algorithms, Business Value,and Innovation](http://delivery.acm.org/10.1145/2850000/2843948/a13-gomez-uribe.pdf)
 
 - :globe_with_meridians: Netflix Medium Blog
   - [Netflix Recommendations: Beyond the 5 stars Part 1](https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5)
