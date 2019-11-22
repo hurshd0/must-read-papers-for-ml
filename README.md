@@ -5,7 +5,8 @@
 
 > NOTE: :construction: in process of updating, let me know what additional papers, articles, blogs to add I will add them here. 
 
-### > :point_right: :star: this repo
+### How to use  
+> :point_right: :star: this repo
 
 
 
