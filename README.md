@@ -1,10 +1,12 @@
 # Must Read Papers for Data Science, ML, and DL
----
-
 ### Curated collection of Data Science, Machine Learning and Deep Learning papers, reviews and articles that are on must read list.
 
+---
+
 > NOTE: :construction: in process of updating, let me know what additional papers, articles, blogs to add I will add them here. 
-> :point_right: :star: this repo
+
+### > :point_right: :star: this repo
+
 
 
 ## Contributing
