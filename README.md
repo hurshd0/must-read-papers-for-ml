@@ -304,3 +304,7 @@ Rabbit hole -> [Top 5 Interesting Applications of GANs](https://www.analyticsvid
 2019-10-30 Added Outlier/Anomaly detection paper, separated Boosting, CNN, Object Detection, NLP papers, and added Image captioning papers 
 
 2019-10-31 Added Famous Blogs from Deep and Machine Learning Researchers
+
+2019-11-1 Fixed markdown issues, added contribution guideline
+
+2019-11-20 Added Recommender Surveys, and Papers
