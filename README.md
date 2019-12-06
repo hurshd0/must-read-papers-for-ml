@@ -217,6 +217,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :3rd_place_medal: :page_facing_up: [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](https://arxiv.org/abs/1808.03867)
 
+:3rd_place_medal: :page_facing_up: [Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/pdf/1911.11423.pdf)
 
 ###  :national_park: :speech_balloon: Image Captioning
 
@@ -252,6 +253,9 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :books: GAN Rabbit Hole -> [GAN Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
 ## :point_down: Cool Stuff :point_down:
+
+:loud_sound: :page_facing_up: [SoundNet: Learning Sound
+Representations from Unlabeled Video](http://soundnet.csail.mit.edu/)
 
 :art: :page_facing_up: [CAN: Creative Adversarial NetworksGenerating “Art” by Learning About Styles andDeviating from Style Norms](https://arxiv.org/pdf/1706.07068)
 
