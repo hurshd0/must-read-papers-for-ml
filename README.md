@@ -26,6 +26,7 @@
 
 :3rd_place_medal: - Read it third
 
+---
 
 ## Data Science
 
@@ -43,6 +44,8 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 - :video_camera: [KDD 2019 Cynthia Rudin's Keynote](https://youtu.be/wL4X4lG20sM)
 
 :1st_place_medal: :page_facing_up: [Frequentism and Bayesianism: A Python-driven Primer by Jake VanderPlas](https://arxiv.org/pdf/1411.5018.pdf)
+
+---
 
 ## Machine Learning
 
@@ -94,9 +97,13 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 
 :2nd_place_medal: :page_facing_up: [Taking the Human Out of the Loop: A review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
 
+---
+
 ### Famous Blogs
 
 [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)
+
+---
 
 ### :8ball: :crystal_ball: Recommenders
 
@@ -123,6 +130,26 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 :2nd_place_medal: :globe_with_meridians: [How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 
 :point_right: More In-Depth study, :closed_book: [Recommender Systems Handbook](https://www.amazon.com/Recommender-Systems-Handbook-Francesco-Ricci/dp/1489976361) 
+
+---
+
+### Famous Deep Learning Blogs :cowboy_hat_face:
+
+:globe_with_meridians: [Stanford UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+
+:globe_with_meridians: [Distill.pub](https://distill.pub/)
+
+:globe_with_meridians: [Colah's Blog](http://colah.github.io/)
+
+:globe_with_meridians: [Andrej Karpathy](https://karpathy.github.io/)
+
+:globe_with_meridians: [Zack Lipton](http://zacklipton.com/articles/)
+
+:globe_with_meridians: [Sebastian Ruder](https://ruder.io/)
+
+:globe_with_meridians: [Jay Alammar](http://jalammar.github.io/)
+
+---
 
 ## :books: Neural Networks and Deep Learning Neural Networks
 
@@ -154,22 +181,6 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 
 :3rd_place_medal: :page_facing_up: [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709v1)
 
-### Famous Deep Learning Blogs :cowboy_hat_face:
-
-:globe_with_meridians: [Stanford UFLDL Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
-
-:globe_with_meridians: [Distill.pub](https://distill.pub/)
-
-:globe_with_meridians: [Colah's Blog](http://colah.github.io/)
-
-:globe_with_meridians: [Andrej Karpathy](https://karpathy.github.io/)
-
-:globe_with_meridians: [Zack Lipton](http://zacklipton.com/articles/)
-
-:globe_with_meridians: [Sebastian Ruder](https://ruder.io/)
-
-:globe_with_meridians: [Jay Alammar](http://jalammar.github.io/)
-
 ### :framed_picture: CNNs
 
 :1st_place_medal: :page_facing_up: [Visualizing and Understanding Convolutional Networks -by Andrej Karpathy Justin Johnson Li Fei-Fei](https://arxiv.org/pdf/1311.2901.pdf)
@@ -186,6 +197,62 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :3rd_place_medal: :page_facing_up: [Large-scale Video Classification with Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 
 :3rd_place_medal: :page_facing_up: [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998.pdf)
+
+### :black_circle: CapsNet :trident:	
+
+:1st_place_medal: :page_facing_up: [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
+
+- Blog explaning, ["What are CapsNet, or Capsule Networks?"](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+
+- [Capsule Networks Tutorial by Aureline Geron](https://www.youtube.com/watch?v=pPN8d0E3900&t=1199s)
+
+###  :national_park: :speech_balloon: Image Captioning
+
+:1st_place_medal: :page_facing_up: [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
+
+:2nd_place_medal: :page_facing_up: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473v7)
+
+:2nd_place_medal: :page_facing_up: [StyleNet: Generating Attractive Visual Captions with Styles](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/Generating-Attractive-Visual-Captions-with-Styles)
+
+:2nd_place_medal: :page_facing_up: [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
+
+:2nd_place_medal: :page_facing_up: [Where to put the Image in an Image Caption Generator](https://arxiv.org/abs/1703.09137)
+
+:2nd_place_medal: :page_facing_up: [Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
+
+### :car: :walking_man: Object Detection :eagle: :football:
+
+:2nd_place_medal: :page_facing_up:[ResNet-Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
+
+:2nd_place_medal: :page_facing_up: [YOLO-You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
+
+:2nd_place_medal: :page_facing_up: [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312)
+
+- [COCO dataset](http://cocodataset.org/#home)
+
+:2nd_place_medal: :page_facing_up:  [(R-CNN) Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)
+
+:2nd_place_medal: :page_facing_up: [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+
+- :computer: [Papers with Code](https://www.paperswithcode.com/paper/fast-r-cnn)
+
+:2nd_place_medal: :page_facing_up: [Faster R-CNN](https://arxiv.org/pdf/1506.01497v3.pdf)
+
+- :computer: [Papers with Code](https://www.paperswithcode.com/paper/mask-r-cnn)
+
+:2nd_place_medal: :page_facing_up: [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
+
+- :computer: [Papers with Code](https://www.paperswithcode.com/paper/mask-r-cnn)
+
+### :car: :walking_man: :couple: Pose Detection :runner: :dancer:
+
+:2nd_place_medal: :page_facing_up: [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434v1.pdf)
+
+- :computer: [Papers with Code](https://www.paperswithcode.com/paper/densepose-dense-human-pose-estimation-in-the)
+
+:2nd_place_medal: :page_facing_up:  [Parsing R-CNN for Instance-Level Human Analysis](https://arxiv.org/pdf/1811.12596v1.pdf)
+
+- :computer: [Papers with Code](https://www.paperswithcode.com/paper/parsing-r-cnn-for-instance-level-human)
 
 ### :abcd: :symbols: NLP :currency_exchange: :1234:
 
@@ -219,38 +286,21 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :3rd_place_medal: :page_facing_up: [Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/pdf/1911.11423.pdf)
 
-###  :national_park: :speech_balloon: Image Captioning
+### :alien: GANs
 
-:1st_place_medal: :page_facing_up: [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
+:books: GAN Rabbit Hole -> [GAN Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
-:2nd_place_medal: :page_facing_up: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473v7)
+### :o::heavy_minus_sign::o: GNNs (Graph Neural Networks)
 
-:2nd_place_medal: :page_facing_up: [StyleNet: Generating Attractive Visual Captions with Styles](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/Generating-Attractive-Visual-Captions-with-Styles)
+:3rd_place_medal: :page_facing_up: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)
 
-:2nd_place_medal: :page_facing_up: [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
-
-:2nd_place_medal: :page_facing_up: [Where to put the Image in an Image Caption Generator](https://arxiv.org/abs/1703.09137)
-
-:2nd_place_medal: :page_facing_up: [Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
-
-### :car: :walking_man: Object Detection :eagle: :football:
-
-:2nd_place_medal: :page_facing_up:[ResNet-Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
-
-:2nd_place_medal: :page_facing_up: [YOLO-You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
-
-:2nd_place_medal: :page_facing_up: [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312)
-
-- [COCO dataset](http://cocodataset.org/#home)
-
+---
 
 ### :man_health_worker: :syringe: Medical AI :pill: :microscope:
 
 [Machine learning classifiers and fMRI: a tutorial overview - by Francisco et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2892746/pdf/nihms100405.pdf)
 
-### :alien: GANs
-
-:books: GAN Rabbit Hole -> [GAN Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+---
 
 ## :point_down: Cool Stuff :point_down:
 
@@ -289,6 +339,7 @@ Rabbit hole -> :loud_sound: :globe_with_meridians: [Analytics Vidhya Top 10 Audi
 
 :balance_scale: :page_facing_up: [BAGAN: Data Augmentation with Balancing GAN](https://arxiv.org/pdf/1803.09655)
 
+---
 
 ## :newspaper: Articles :newspaper:
 
@@ -298,6 +349,7 @@ Rabbit hole -> [Top 5 Interesting Applications of GANs](https://www.analyticsvid
 
 [Deep Learning Applications a beginner can build in minutes ](https://www.analyticsvidhya.com/blog/2017/02/5-deep-learning-applications-beginner-python/)
 
+---
 
 #### CHANGELOG
 
@@ -312,3 +364,5 @@ Rabbit hole -> [Top 5 Interesting Applications of GANs](https://www.analyticsvid
 2019-11-1 Fixed markdown issues, added contribution guideline
 
 2019-11-20 Added Recommender Surveys, and Papers
+
+2019-12-12 Added R-CNN variants, PoseNets, GNNs
