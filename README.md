@@ -252,7 +252,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 - :computer: [Papers with Code](https://www.paperswithcode.com/paper/parsing-r-cnn-for-instance-level-human)
 
-### :abcd: :symbols: NLP :currency_exchange: :1234:
+### :abcd: :symbols: Deep NLP :currency_exchange: :1234:
 
 :1st_place_medal: :page_facing_up: [A Primer on Neural Network Modelsfor Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
 
@@ -343,11 +343,13 @@ Rabbit hole -> :loud_sound: :globe_with_meridians: [Analytics Vidhya Top 10 Audi
 
 ---
 
-## :newspaper: Articles :newspaper:
+## :newspaper: Cap Stone Projects :newspaper:
+
+[8 Awesome Data Science Capstone Projects](https://www.analyticsvidhya.com/blog/2019/04/8-awesome-data-science-capstone-projects-from-praxis-business-school/)
 
 [10 Powerful Applications of Linear Algebra in Data Science](https://www.analyticsvidhya.com/blog/2019/07/10-applications-linear-algebra-data-science/)
 
-Rabbit hole -> [Top 5 Interesting Applications of GANs](https://www.analyticsvidhya.com/blog/2019/04/top-5-interesting-applications-gans-deep-learning/)
+[Top 5 Interesting Applications of GANs](https://www.analyticsvidhya.com/blog/2019/04/top-5-interesting-applications-gans-deep-learning/)
 
 [Deep Learning Applications a beginner can build in minutes ](https://www.analyticsvidhya.com/blog/2017/02/5-deep-learning-applications-beginner-python/)
 
@@ -368,3 +370,5 @@ Rabbit hole -> [Top 5 Interesting Applications of GANs](https://www.analyticsvid
 2019-11-20 Added Recommender Surveys, and Papers
 
 2019-12-12 Added R-CNN variants, PoseNets, GNNs
+
+2020-02-23 Added GRU paper
