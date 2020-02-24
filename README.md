@@ -258,6 +258,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :1st_place_medal: :page_facing_up: [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555.pdf)
 
+:1st_place_medal: :page_facing_up: [On the Properties of Neural Machine Translation: Encoder–Decoder Approaches](https://arxiv.org/pdf/1409.1259.pdf)
+
 :1st_place_medal: :page_facing_up: [LSTM: A Search Space Odyssey - by Klaus Greff et al.](https://arxiv.org/pdf/1503.04069.pdf)
 
 :1st_place_medal: :page_facing_up: [A Critical Review of Recurrent Neural Networksfor Sequence Learning](https://arxiv.org/pdf/1506.00019.pdf)
