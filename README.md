@@ -163,8 +163,6 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 
 :1st_place_medal: :page_facing_up: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 
-:1st_place_medal: :page_facing_up: [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661v1.pdf)
-
 :2nd_place_medal: :page_facing_up: [Polynomial Regression As an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850)
 
 :2nd_place_medal: :globe_with_meridians: [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
@@ -258,6 +256,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 :1st_place_medal: :page_facing_up: [A Primer on Neural Network Modelsfor Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
 
+:1st_place_medal: :page_facing_up: [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555.pdf)
+
 :1st_place_medal: :page_facing_up: [LSTM: A Search Space Odyssey - by Klaus Greff et al.](https://arxiv.org/pdf/1503.04069.pdf)
 
 :1st_place_medal: :page_facing_up: [A Critical Review of Recurrent Neural Networksfor Sequence Learning](https://arxiv.org/pdf/1506.00019.pdf)
@@ -287,6 +287,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :3rd_place_medal: :page_facing_up: [Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/pdf/1911.11423.pdf)
 
 ### :alien: GANs
+
+:1st_place_medal: :page_facing_up: [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661v1.pdf)
 
 :books: GAN Rabbit Hole -> [GAN Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
