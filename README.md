@@ -51,8 +51,6 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 
 ### :dart: General ML
 
-:1st_place_medal: :newspaper: [A Few Useful Things to Know About Machine Learning - by Pedro domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
-
 :1st_place_medal: :page_facing_up: [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning - by Sebastian Raschka](https://arxiv.org/pdf/1811.12808.pdf)
 
 :1st_place_medal: :page_facing_up: [A Brief Introduction into Machine Learning - by Gunnar Ratsch](https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf)
