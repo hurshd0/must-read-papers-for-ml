@@ -252,7 +252,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 ### :abcd: :symbols: Deep NLP :currency_exchange: :1234:
 
-:1st_place_medal: :page_facing_up: [A Primer on Neural Network Modelsfor Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
+:1st_place_medal: :page_facing_up: [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
 
 :1st_place_medal: :page_facing_up: [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555.pdf)
 
