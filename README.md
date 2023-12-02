@@ -100,6 +100,7 @@ generalization and model simplicity in machine learning](https://arxiv.org/pdf/1
 ### Famous Blogs
 
 [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)
+[Chip Huyen](https://huyenchip.com/blog/)
 
 ---
 
@@ -340,6 +341,8 @@ Rabbit hole -> :loud_sound: :globe_with_meridians: [Analytics Vidhya Top 10 Audi
 :blonde_man: -> :older_man: :page_facing_up: :page_facing_up: [Dual Conditional GANs for Face Aging and Rejuvenation](https://www.ijcai.org/proceedings/2018/0125.pdf)
 
 :balance_scale: :page_facing_up: [BAGAN: Data Augmentation with Balancing GAN](https://arxiv.org/pdf/1803.09655)
+
+[labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/)
 
 ---
 
